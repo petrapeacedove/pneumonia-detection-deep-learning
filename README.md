@@ -194,3 +194,9 @@ Due to computational cost, notebooks retain final outputs to demonstrate results
 Petra Peace Dove  
 MSc Bioinformatics  
 Interested in Genomics, Artificial Intelligence in Medicine, and Computational Biology
+
+If you use this work, please cite:
+
+Petra Peace Dove (2026).
+Pneumonia Detection using CNN and Transfer Learning.
+GitHub Repository.
